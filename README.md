@@ -11,10 +11,13 @@
 
 ## 🚀 About Me
 
-* 🛰️ Building **AEGIS** – OSINT & infrastructure intelligence system
-* 📄 Created **DocMind** – AI document analysis platform
-* ⚡ Working with **LLMs, distributed systems & real-time pipelines**
-* 💻 Freelance Full Stack Developer
+I enjoy building systems that actually work in the real world, not just projects that look good on the surface.
+
+I’m curious about how things behave at scale, how data flows, how systems interact, and how small decisions affect performance and reliability. I like going deeper into problems rather than just solving them at a surface level.
+
+Most of what I build revolves around real-world use cases where there are constraints, imperfect data, and trade-offs. I find that more interesting than working on isolated or purely theoretical ideas.
+
+Outside of coding, I tend to think about how systems, technical or otherwise, are structured and how they can be improved.
 
 ---
 
