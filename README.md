@@ -11,14 +11,13 @@
 
 ## 🚀 About Me
 
-I enjoy building systems that actually work in the real world, not just projects that look good on the surface.
+I don’t just build things, I build systems that hold up under real conditions.
 
-I’m curious about how things behave at scale, how data flows, how systems interact, and how small decisions affect performance and reliability. I like going deeper into problems rather than just solving them at a surface level.
+I enjoy working on problems where there are constraints, imperfect data, and real-world trade-offs instead of ideal scenarios.
 
-Most of what I build revolves around real-world use cases where there are constraints, imperfect data, and trade-offs. I find that more interesting than working on isolated or purely theoretical ideas.
+I’m particularly interested in how systems behave at scale, how data flows through them, and how small decisions impact performance and reliability over time.
 
-Outside of coding, I tend to think about how systems, technical or otherwise, are structured and how they can be improved.
-
+For me, development is less about writing code and more about understanding how everything fits together and continues to work when things get complex.
 ---
 
 ## 🔧 Tech Stack
